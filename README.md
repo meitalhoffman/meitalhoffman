@@ -1,5 +1,5 @@
-## Hi, I'm Meital 👋
-# Data Analyst, Urban Scientist, Climate and Sustainability Nerd
+# Hi, I'm Meital 👋
+## Data Analyst, Urban Scientist, Climate and Sustainability Nerd
 
 <!--
 **meitalhoffman/meitalhoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
