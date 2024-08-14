@@ -7,6 +7,7 @@
 - Currently, I use Python, Excel, SQL, and ArcGIS to deliver internal and external data insight; however, I also am proficient in Tableau.
 - I completed my Masters in City Planning at Massachusetts Institute of Technology (MIT DUSP) in May 2022, with a focus in urban analytics.
 - In 2020, I earned a Bachelors degree from MIT in Urban Planning and Computer Science, with a focus in data analytics.
+- The repos on this profile contain my work from my undergraduate degree where I specialized in applying data analytics to urban contexts.
 - Besides geeking out over interesting data insights, I enjoy making pottery, fiber arts, yoga, biking, hiking, concerts, and cooking.
 <!--
 **meitalhoffman/meitalhoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
