@@ -1,5 +1,5 @@
 # Hi, I'm Meital 👋
-## Data Analyst, Urban Scientist, Climate Activist, Curious Person
+## Data Analyst, Urban Planner, Curious Person
 
 - I'm passionate about using data to answer questions and provide actionable insights.
 - I'm currently working as a remote sensing data analyst at Floodbase.
